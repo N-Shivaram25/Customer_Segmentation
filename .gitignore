@@ -1,0 +1,59 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Python distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Local Streamlit files
+.streamlit/secrets.toml
+
+# Local data files
+# Uncomment if your dataset should NOT be uploaded to GitHub:
+# *.csv
+# *.xlsx
+# data/
+
+# Model files are intentionally NOT ignored because the Streamlit app
+# needs these files for prediction:
+# scaler.pkl
+# kmeans_model.pkl
