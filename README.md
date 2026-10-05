@@ -1,5 +1,12 @@
 # Customer Segmentation using K-Means Clustering
 
+## 🚀 Live Demo
+
+👉 [**Open Customer Segmentation App**](https://ko2x4x9nfcm3jhqdipamuv.streamlit.app/)
+
+---
+# Customer Segmentation using K-Means Clustering
+
 ## Project Overview
 
 This project uses customer data to identify meaningful customer segments
